@@ -1,0 +1,147 @@
+/* common strat */
+body{
+	margin: 0;
+	font-size: 17px;
+	font-weight: 400px;
+	
+}
+/* common end */
+
+/* header strat */
+.container {
+	width: 87%;
+	margin: auto;
+}
+.header-area {
+	overflow: hidden;
+	border-bottom: 2px solid #edede9;
+}	
+.logo {
+	width: 30%;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	float: left;
+	overflow: hidden;
+}
+.menu ul {
+	margin: 0;
+	padding: 0;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	list-style: none;
+	float: right;
+}
+.menu ul li {
+	margin-left: 10px;
+	float: left;
+}
+.menu ul li a {
+	padding: 6px 10px;
+	color: black;
+	text-decoration: none;
+	display: block;
+	border-radius: 4px;
+}
+/* header end */
+
+/* title-text start */
+.title-text {
+	width: 100%;
+	margin: auto;
+	padding: 30px 0;
+	color: #0f2656;
+	overflow: hidden;
+	text-align: center;
+}
+.color{
+	color: #008aff;
+}
+.title-text h1{
+	font-size: 57px;
+	font-weight: 700;
+}
+.title-text p{
+	color: #0f2656;
+}
+
+/* title-text end */
+/* image-area start */
+.image{
+	text-align: center;
+	margin-bottom: 20px;
+}
+/* image-area end */
+
+/* section start */
+.section{
+	overflow: hidden;
+}
+.paragraph{
+	margin-top: 15px;
+	margin-left: 300px;
+	color: #1e4983;
+	text-align: right;
+	float: left;
+}
+.heading{
+	margin-right: 200px;
+	color: #0f2656;
+	font-size: 22px;
+	text-align: left;
+	float: right;
+}
+.red{
+	color: #f15767;
+	font-weight: bold;
+	font-size: 50px;
+}
+/* section end */
+
+/* about-area start */
+.about-area {
+	overflow: hidden;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.images1{
+	width: 28%;
+	margin: 0 15px;
+	padding: 0 15px;
+	background: #FEEBED;
+	float: left;
+	overflow: hidden;
+}
+.images2{
+	width: 28%;
+	margin: 0 15px;
+	padding: 0 15px;
+	background: #EBF9F4;
+	float: left;
+	overflow: hidden;
+}
+.images3{
+	width: 28%;
+	margin: 0 15px;
+	padding: 0 15px;
+	background: #FFF7E8;
+	float: left;
+}
+/* about-area end */
+
+/* footer start */
+.footer-area{
+	
+	background: #018AFF;
+}
+.footer{
+	padding: 20px;
+	color: #91c7ff;
+	text-align: center;
+}
+.bold{
+	font-weight: bold;
+	color: white;
+	
+}
+/* footer end */
